@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+
+# Local documents and temporary QA output
+docx_render_check/
+*.docx
+*.tmp
+
+# Reference PDFs/text extraction artifacts are large and not needed for running the simulator
+reference_papers/
+reference_texts/
+参考文献/
+
+# Old exploratory runs
+results*/
+my_run_1/
+my_run_lr/
+my_run_seed7/
+my_run_64req/
+my_run_extended/
+my_run_reuse_prefetch/
+my_run_seed7_reuse_prefetch/
+my_run_extended_reuse_prefetch/
+
