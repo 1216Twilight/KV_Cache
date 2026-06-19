@@ -1,6 +1,6 @@
 # KV Cache Learned Cache 仿真实验
 
-这个项目用于仿真大语言模型推理中的 KV Cache 管理策略。程序会生成 KV block 访问序列，并比较 FIFO、LRU、LFU、Heuristic 和 Learned Cache 五种策略。
+这个项目用于计算机系统结构课程论文。这个项目用于仿真大语言模型推理中的 KV Cache 管理策略。程序会生成 KV block 访问序列，并比较 FIFO、LRU、LFU、Heuristic 和 Learned Cache 五种策略。
 
 当前版本已经对齐题目中的三个关键词：
 
